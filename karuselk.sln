@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karuselk.Android", "karuselk\karuselk.Android\karuselk.Android.csproj", "{3AF80D9E-532E-4608-9A9B-CA72EFFA9149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karuselk", "karuselk\karuselk\karuselk.csproj", "{D0F7D869-BFB7-410C-81B9-8B4A8E08D11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF80D9E-532E-4608-9A9B-CA72EFFA9149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF80D9E-532E-4608-9A9B-CA72EFFA9149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF80D9E-532E-4608-9A9B-CA72EFFA9149}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3AF80D9E-532E-4608-9A9B-CA72EFFA9149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF80D9E-532E-4608-9A9B-CA72EFFA9149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF80D9E-532E-4608-9A9B-CA72EFFA9149}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D0F7D869-BFB7-410C-81B9-8B4A8E08D11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F7D869-BFB7-410C-81B9-8B4A8E08D11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F7D869-BFB7-410C-81B9-8B4A8E08D11F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D0F7D869-BFB7-410C-81B9-8B4A8E08D11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F7D869-BFB7-410C-81B9-8B4A8E08D11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F7D869-BFB7-410C-81B9-8B4A8E08D11F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9AB94E1-67C9-45C1-B4D4-42F2C561AEE6}
+	EndGlobalSection
+EndGlobal
